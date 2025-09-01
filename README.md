@@ -1,16 +1,61 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1>
+    Hi there, I'm Bhavishya
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  <p>
+    I'm a Software Engineer with strong skills in full-stack development and machine learning[cite: 49]. I'm passionate about building real-world projects and learning new technologies to solve problems effectively[cite: 50].
+  </p>
+  <p>
+    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:bhavishyasangwan6543@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+</div>
 
-<!--
-**Bhavishya-code/Bhavishya-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   [cite_start]🎓 I'm a B.Tech in **Software Engineering** student at **Delhi Technological University (DTU)** (2022-2026)[cite: 4, 7, 80, 82, 83].
+-   [cite_start]💻 I specialize in full-stack web development, particularly with the **Next.js** , **React** and **Node.js** ecosystems[cite: 86].
+-   [cite_start]🧠 I also have a keen interest in **Machine Learning**, with projects in predictive modeling[cite: 39, 49, 75].
+-   [cite_start]💡 I am proficient in Data Structures and Algorithms, having solved **500+ questions on LeetCode**[cite: 39, 45].
+-   🤝 I'm always open to collaborating on innovative projects.
+
+---
+
+### 🛠️ My Tech Stack
+
+Here are some of the technologies I'm proficient with:
+
+| Frontend                                                                                                                                                                                                                                              | Backend / Frameworks                                                                                                                                                                                                 | Databases & Auth                                                                                                                                                                                          | Languages                                                                                                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />                                         | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" /> | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> |
+| <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />                                   | <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" /> | <img src="https://img.shields.io/badge/Convex-000000?style=for-the-badge&logo=convex&logoColor=white" /> <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" /> | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> |
+
+---
+
+### 💻 Featured Projects
+
+Here are some of the projects I've worked on:
+
+| Project                                     | Description                                                                                                                                             | Tech Stack                                                     | Links                                                                                                              |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| [cite_start]**Horizon-Finance Dashboard** [cite: 8]       | [cite_start]A full-stack banking dashboard with secure authentication, bank account linking, real-time data sync, and fund transfers[cite: 10, 11].                       | [cite_start]Next.js, TypeScript, Appwrite, Plaid, Dwolla [cite: 9]         | [GitHub](https://github.com/Bhavishya-code/Horizon-Finance-Dashboard)                                              |
+| [cite_start]**VibeCode (AI Website Builder)** [cite: 51] | [cite_start]A full-stack, T3-stack tool with a Gemini-powered AI agent for intelligent code analysis and presentation-ready snippet generation[cite: 56, 57].        | [cite_start]React, Next.js, tRPC, Prisma, Tailwind CSS [cite: 52, 59]      | |
+| [cite_start]**Pixro - Webinar Platform** [cite: 22]       | [cite_start]An AI-powered webinar platform where marketers can host livestreams and use an AI sales agent to engage and close leads in breakout rooms[cite: 28, 29]. | [cite_start]TypeScript, React, Prisma, ClerkAuth, Vapi AI Agents [cite: 23] | [cite_start][Live Demo](https://pixro.vercel.app/) [cite: 24]                                                                    |
+| [cite_start]**Notion-Like Website** [cite: 68]            | [cite_start]A full-stack note-taking app with real-time data persistence, ensuring low latency during concurrent editing[cite: 71].                                    | [cite_start]React, Next.js, Convex, Clerk, Tailwind CSS [cite: 73]         | |
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhavishya-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Bhavishya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavishya-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
