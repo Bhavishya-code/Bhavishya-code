@@ -1,101 +1,58 @@
 <div align="center">
-
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
-
-  # Hi there, I'm Bhavishya 👋
-
-  <p>
-    I'm a Software Engineer with strong skills in full-stack development and machine learning. I'm passionate about building real-world projects and learning new technologies to solve problems effectively.
-  </p>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
-  <p>
-    <a href="https://www.linkedin.com/in/bhavishya-sangwan-05343a25a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:bhavishyasangwan6543@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
+  # 👋 Hi there, I'm Bhavishya
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-  <img src="https://komarev.com/ghpvc/?username=Bhavishya-code&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="Profile views" />
-
+  ### 💻 Software Engineer | 🚀 Full-Stack Developer | 🤖 ML Enthusiast
 </div>
 
 ---
 
-### 🚀 About Me
-
-🎓 I'm a B.Tech in **Software Engineering** student at **Delhi Technological University (DTU)** (2022-2026).
-
-💻 I specialize in full-stack web development, particularly with the **Next.js** and **React** ecosystems.
-
-🧠 I also have a keen interest in **Machine Learning**, with projects in predictive modeling.
-
-💡 I am proficient in Data Structures and Algorithms, having solved **500+ questions on LeetCode** and earned a DSA Course Completion Certificate.
-
-🤝 I'm always open to collaborating on innovative projects.
+## 🌟 About Me  
+- 🎓 B.Tech in **Software Engineering** @ **Delhi Technological University (DTU)** (2022-2026)  
+- 💻 Skilled in **Full-Stack Development** with **Next.js** + **React**  
+- 🧠 Keen interest in **Machine Learning & AI** (worked on predictive modeling + AI agents)  
+- 💡 Solved **500+ DSA problems on LeetCode**  
+- 🤝 Open to collaborations on impactful projects  
 
 ---
 
-### 🛠️ Languages and Tools
+## ⚡ Tech Stack  
 
-Here are some of the technologies I'm proficient with:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+| Frontend | Backend / Frameworks | Databases & Auth | Languages |
+|----------|----------------------|------------------|------------|
+| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white) ![Convex](https://img.shields.io/badge/Convex-000000?style=for-the-badge&logo=convex&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 
 ---
 
-### 💻 Featured Projects
+## 🚀 Featured Projects  
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **VibeCode – AI Website Builder** | A T3-stack tool with a Gemini-powered AI agent for intelligent code analysis & snippet generation | React, Next.js, tRPC, Prisma, Tailwind | 🔗 Coming Soon |
+| **Pixro – Webinar Platform** | AI-powered webinar tool with breakout rooms + sales agents for lead conversion | TypeScript, React, Prisma, ClerkAuth, Vapi AI Agents | [🌐 Live Demo](https://pixro.vercel.app/) |
+| **Notion-Like Website** | Real-time note-taking app with collaborative editing & persistence | Next.js, Convex, Clerk, Tailwind | [🌐 Live Demo](https://noter-sepia.vercel.app/) |
+| **Online Code Editor** | Real-time code editor with live HTML/CSS/JS preview | Next.js, React, TypeScript | [🌐 Live Demo](https://online-code-editor-basic-lyart.vercel.app/) |
 
 ---
 
-#### 🚀 VibeCode (AI Website Builder)
-> A full-stack, T3-stack tool with a Gemini-powered AI agent for intelligent code analysis and presentation-ready snippet generation.
+## 📊 GitHub Stats  
 
-**Tech Stack:** React, Next.js, tRPC, Prisma, Tailwind CSS
-<br>
-`Private Repository`
-
----
-
-#### 🤖 Pixro - AI Webinar Platform
-> An AI-powered webinar platform where marketers can host livestreams and use an AI sales agent to engage and close leads in breakout rooms.
-
-**Tech Stack:** TypeScript, React, Prisma, ClerkAuth, Vapi AI Agents
-<br>
-[**🚀 Live Demo**](https://pixro.vercel.app/)
-
----
-        
-#### 📝 Notion-Like Collaborative Editor
-> A full-stack note-taking app with real-time data persistence, ensuring low latency during concurrent editing.
-        
-**Tech Stack:** React, Next.js, Convex, Clerk, Tailwind CSS
-<br>
-[**🚀 Live Demo**](https://noter-sepia.vercel.app/)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhavishya-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavishya-code&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
+</div>
 
 ---
 
-#### 🌐 Online Code Editor
-> A real-time code editor with live preview for HTML, CSS, and JavaScript, featuring an intuitive 3-pane user experience.
-        
-**Tech Stack:** React, Next.js, TypeScript
-<br>
-[**🚀 Live Demo**](https://online-code-editor-basic-lyart.vercel.app/)
+## 🌐 Connect With Me  
 
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bhavishya-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Bhavishya's GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavishya-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/bhavishya-sangwan-05343a25a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:bhavishyasangwan6543@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
