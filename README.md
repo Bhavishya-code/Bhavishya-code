@@ -5,7 +5,7 @@
   # Hi there, I'm Bhavishya 👋
 
   <p>
-    [cite_start]I'm a Software Engineer with strong skills in full-stack development and machine learning. [cite: 49] [cite_start]I'm passionate about building real-world projects and learning new technologies to solve problems effectively. [cite: 50]
+    [cite_start]I'm a Software Engineer with strong skills in full-stack development and machine learning[cite: 3]. [cite_start]I'm passionate about building real-world projects and learning new technologies to solve problems effectively[cite: 4].
   </p>
   
   <p>
@@ -21,13 +21,13 @@
 
 ### 🚀 About Me
 
-[cite_start]🎓 I'm a B.Tech in **Software Engineering** student at **Delhi Technological University (DTU)** (2022-2026). [cite: 80, 82, 83]
+[cite_start]🎓 I'm a B.Tech in **Software Engineering** student at **Delhi Technological University (DTU)** (2022-2026)[cite: 34, 36, 37].
 
-💻 I specialize in full-stack web development, particularly with the **Next.js** and **React** ecosystems.
+[cite_start]💻 I specialize in full-stack web development, particularly with the **Next.js** and **React** ecosystems[cite: 6, 16, 23, 75, 77].
 
-[cite_start]🧠 I also have a keen interest in **Machine Learning**, with projects in predictive modeling. [cite: 49, 74]
+[cite_start]🧠 I also have a keen interest in **Machine Learning**, with projects in predictive modeling[cite: 29, 79].
 
-[cite_start]💡 I am proficient in Data Structures and Algorithms, having solved **500+ questions on LeetCode**. [cite: 45, 39]
+[cite_start]💡 I am proficient in Data Structures and Algorithms, having solved **500+ questions on LeetCode** and earned a DSA Course Completion Certificate[cite: 79, 85, 86].
 
 🤝 I'm always open to collaborating on innovative projects.
 
@@ -55,43 +55,41 @@ Here are some of the technologies I'm proficient with:
 
 ### 💻 Featured Projects
 
-Here are some of the projects I've worked on.
+---
 
-<details>
-  <summary><strong>🚀 VibeCode (AI Website Builder)</strong></summary>
-  <br/>
-  [cite_start]<p>A full-stack, T3-stack tool with a Gemini-powered AI agent for intelligent code analysis and presentation-ready snippet generation. [cite: 56, 57]</p>
-  [cite_start]<strong>Tech Stack:</strong> React, Next.js, tRPC, Prisma, Tailwind CSS [cite: 52, 58, 59]
-  <br/>
-  <em>(Private Repository)</em>
-</details>
+#### [cite_start]🚀 VibeCode (AI Website Builder) [cite: 5]
+> [cite_start]A full-stack, T3-stack tool with a Gemini-powered AI agent for intelligent code analysis and presentation-ready snippet generation[cite: 10, 11].
 
-<details>
-  <summary><strong>🤖 Pixro - AI Webinar Platform</strong></summary>
-  <br/>
-  [cite_start]<p>An AI-powered webinar platform where marketers can host livestreams and use an AI sales agent to engage and close leads in breakout rooms. [cite: 28, 29]</p>
-  [cite_start]<strong>Tech Stack:</strong> TypeScript, React, Prisma, ClerkAuth, Vapi AI Agents [cite: 23]
-  <br/>
-  <a href="https://pixro.vercel.app/"><strong>🚀 Live Demo</strong></a>
-</details>
+[cite_start]**Tech Stack:** React [cite: 6][cite_start], Next.js [cite: 6][cite_start], tRPC [cite: 13][cite_start], Prisma [cite: 13][cite_start], Tailwind CSS [cite: 12]
+<br>
+`Private Repository`
 
-<details>
-  <summary><strong>📝 Notion-Like Collaborative Editor</strong></summary>
-  <br/>
-  [cite_start]<p>A full-stack note-taking app with real-time data persistence, ensuring low latency during concurrent editing. [cite: 71]</p>
-  [cite_start]<strong>Tech Stack:</strong> React, Next.js, Convex, Clerk, Tailwind CSS [cite: 69, 73]
-  <br/>
-  <a href="https://noter-sepia.vercel.app/"><strong>🚀 Live Demo</strong></a>
-</details>
+---
 
-<details>
-  <summary><strong>🌐 Online Code Editor</strong></summary>
-  <br/>
-  [cite_start]<p>A real-time code editor with live preview for HTML, CSS, and JavaScript, featuring an intuitive 3-pane user experience. [cite: 65]</p>
-  [cite_start]<strong>Tech Stack:</strong> React, Next.js, TypeScript [cite: 62, 66]
-  <br/>
-  <a href="https://online-code-editor-basic-lyart.vercel.app/"><strong>🚀 Live Demo</strong></a>
-</details>
+#### [cite_start]🤖 Pixro - AI Webinar Platform [cite: 62]
+> [cite_start]An AI-powered webinar platform where marketers can host livestreams and use an AI sales agent to engage and close leads in breakout rooms[cite: 68, 69].
+
+[cite_start]**Tech Stack:** TypeScript [cite: 63][cite_start], React [cite: 63][cite_start], Prisma [cite: 63][cite_start], ClerkAuth [cite: 63][cite_start], Vapi AI Agents [cite: 63]
+<br>
+[cite_start][**🚀 Live Demo**](https://pixro.vercel.app/) [cite: 64]
+
+---
+        
+#### [cite_start]📝 Notion-Like Collaborative Editor [cite: 22]
+> [cite_start]A full-stack note-taking app with real-time data persistence, ensuring low latency during concurrent editing[cite: 25].
+        
+[cite_start]**Tech Stack:** React [cite: 23, 27][cite_start], Next.js [cite: 23, 27][cite_start], Convex [cite: 27][cite_start], Clerk [cite: 27][cite_start], Tailwind CSS [cite: 27]
+<br>
+[**🚀 Live Demo**](https://noter-sepia.vercel.app/)
+
+---
+
+#### [cite_start]🌐 Online Code Editor [cite: 15]
+> [cite_start]A real-time code editor with live preview for HTML, CSS, and JavaScript, featuring an intuitive 3-pane user experience[cite: 19].
+        
+[cite_start]**Tech Stack:** React [cite: 16][cite_start], Next.js [cite: 16][cite_start], TypeScript [cite: 20]
+<br>
+[**🚀 Live Demo**](https://online-code-editor-basic-lyart.vercel.app/)
 
 ---
 
